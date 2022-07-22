@@ -1,4 +1,6 @@
 # dvic
+
+
 ### Liste des matériaux
 -    Photo-Resistor 
 -    7 color Flash 
@@ -12,3 +14,5 @@ Nous avons donc créé un bot python permettant de se connecter à un formulaire
 
 ### Créateur 
 Corentin Ancel, Kelian Raoult Severac, Lucas Orsini
+
+![Cover](https://github.com/kelianaylek/dvic/blob/master/shcema-dvic.png)
